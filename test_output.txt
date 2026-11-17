@@ -1,0 +1,13 @@
+﻿VSTest version 18.10.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+  Passed TestDodRecurrence [< 1 ms]
+  Passed TestSumTaylorSeriesConvergence [< 1 ms]
+  Passed TestSumVariousPoints [< 1 ms]
+  Passed TestTermsCountPositive [< 1 ms]
+
+Test Run Successful.
+Total tests: 4
+     Passed: 4
+ Total time: 0,2763 Seconds
